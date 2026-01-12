@@ -39,7 +39,6 @@ https://nikolaracic4723.github.io/Porsche/author.html
 <changefreq>yearly</changefreq>
 <priority>0.30</priority>
 </url>
-</urlset>
 <url>
 <loc>
 https://nikolaracic4723.github.io/Porsche/shop-single.html
@@ -48,3 +47,4 @@ https://nikolaracic4723.github.io/Porsche/shop-single.html
 <changefreq>yearly</changefreq>
 <priority>0.60</priority>
 </url>
+</urlset>
